@@ -1,4 +1,2 @@
 New line in this file 
 /Users/ivanavrakhov/Documents/GitHub/
-
-bla bla bla 
